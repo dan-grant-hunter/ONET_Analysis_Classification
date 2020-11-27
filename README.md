@@ -4,6 +4,8 @@
 The O\*NET Program is the United States' primary source of occupational information. Valid data is essential to understanding the rapidly changing nature of work and how it impacts the workforce and U.S. economy.
 
 In this project, I look at abilities, skills and tech skills data from O\*NET. Specifically, I look at some of the most in-demand skills and abilities for jobs and also what jobs require high levels of both skills and abilities. I also train a classifier to predict around 500 random LinkedIn job titles and match them with SOC (Standard Occupational Classification) codes, which is how O\*NET classifies jobs.
+
+[**Click here to view the notebook in nbviewer**](https://nbviewer.jupyter.org/github/dan-grant-hunter/ONET_Analysis_Classification/blob/main/onet_analysis_and_classification.ipynb)
  
 ## Summary of Findings
 * Active listening, speaking and critical thinking were the top three skills that jobs most often require.
